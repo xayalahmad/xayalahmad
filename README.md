@@ -15,7 +15,7 @@
     <a href="https://material-ui.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img style="width: 48px" src="https://cdn2.downdetector.com/static/uploads/c/300/0d4f7/figma2.png"/> </a>    
+    <a href="https://www.figma.com/" target="_blank"> <img style="width: 48px" src="https://cdn2.downdetector.com/static/uploads/c/300/0d4f7/figma2.png"/> </a>    
 </p>
   <br>
 

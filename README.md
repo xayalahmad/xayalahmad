@@ -1,5 +1,5 @@
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Xayal</h1>
-<img width="200px" align='right' src="https://media2.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif?cid=790b761134404c750dc39cc55267d8a8a66ae0b7ec62c2e8&rid=giphy.gif&ct=s"/>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Xayal</h1>
+<img width="300px" height="300px"  align='right' src="https://media2.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif?cid=790b761134404c750dc39cc55267d8a8a66ae0b7ec62c2e8&rid=giphy.gif&ct=s"/>
 <h3 align="center">I'm a Front-End Developer 👨‍💻</h3> 
 <h4 align='left'>I am proactive and positive. I'm always trying to grow and learn something new.<br> I have an organised and efficient manner to work as part of a team and deliver a high quality result</h4>  <br>  <br>
 
@@ -24,4 +24,3 @@
  
 ![Xayal's GitHubts](https://github-readme-stats.vercel.app/api?username=XayalAhmad&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xayalahmad&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true)
